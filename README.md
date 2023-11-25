@@ -17,6 +17,8 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordiba90&show_icons=true&theme=algolia&include_all_commits=true&count_private=false" height="150"</img>
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordiba90&layout=compact&langs_count=8&theme=algolia" height="150"</img></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jordiba90&theme=algolia&include_all_commits=true&count_private=false"></img></p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jordiba90&theme=algolia&include_all_commits=true&count_private=false"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jordiba90&theme=algolia&include_all_commits=true&count_private=false"></img></p>
 </div>
