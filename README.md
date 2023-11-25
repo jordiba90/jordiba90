@@ -4,7 +4,6 @@
 
 <div align="center">
 <p></p>Economist 📝 Consultant ☕ Data Analyst 🔍 Data Scientist 💡</div></p>
-  
 </div>
 
 <div align="center">
@@ -17,10 +16,7 @@
 </p>
 </div>
 
-
-
-
 <div align="center">
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordiba90&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/></p>
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordiba90&layout=compact&langs_count=8&theme=algolia"/></p>
+<p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordiba90&show_icons=true&theme=algolia&include_all_commits=true&count_private=false" width="400" height="200"</img></p>
+<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordiba90&layout=compact&langs_count=8&theme=algolia" width="400" height="100"</img></p>
 </div>
