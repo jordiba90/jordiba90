@@ -17,5 +17,5 @@
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jordiba90&theme=algolia&include_all_commits=true&count_private=false" width=590px></img></p>
+<img src="https://github-profile-trophy.vercel.app/?username=jordiba90&theme=algolia&include_all_commits=true&count_private=false" width=800px></img></p>
 </div>
