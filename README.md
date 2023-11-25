@@ -17,6 +17,6 @@
 </div>
 
 <div align="center">
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordiba90&show_icons=true&theme=algolia&include_all_commits=true&count_private=false" width="400" height="200"</img></p>
-<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordiba90&layout=compact&langs_count=8&theme=algolia" width="400" height="100"</img></p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jordiba90&show_icons=true&theme=algolia&include_all_commits=true&count_private=false" height="150"</img>
+<p><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jordiba90&layout=compact&langs_count=8&theme=algolia" height="150"</img></p>
 </div>
