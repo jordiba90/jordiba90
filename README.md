@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<p></p>Economist 📝 Consultant ☕ Data Analyst 🔍 Data Scientist 💡</div></p>
+<p></p>Economist 📝 Consultant ☕ Data Analyst 💡</div></p>
 </div>
 
 <div align="center">
