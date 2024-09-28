@@ -1,0 +1,47 @@
+# FOLDERS
+
+	ARCHIVO/
+	SOL*/
+
+# FILES
+
+	# PRIVATE
+	*token*
+	*tk.txt
+	*thumbnail*
+	*cbosch*
+	*cache*
+	*log*
+	*.jpg
+	*.png
+	*.mp3
+	*.mp4
+	*.mov
+	*.gif
+	*.mkv
+	*.bat
+
+	# LINKS
+	*.ini
+	*.lnk
+	*.url
+	*Acceso directo
+
+	#EDITING
+	*.doc
+	*.docx
+	*.txt
+
+	# LARGE FILES
+	*.rar
+	*.zip
+
+	# SOFTWARE
+	*.exe
+	*.msi
+	*.csv
+	*.json
+	*.xlsx
+	*.xls
+	*.pbix
+	*.ppsx
